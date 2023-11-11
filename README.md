@@ -96,7 +96,7 @@ I am eager to learn and grow, and I am confident that I can make a significant c
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <table><tr><td valign="top" width="55%">
 
@@ -108,12 +108,13 @@ I am eager to learn and grow, and I am confident that I can make a significant c
 
 </td>
 
+
 <tr><td valign="top" width="100%" colspan="2">
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushStacksCode&theme=shades-of-purple&hide_border=false" align="center" style="width: 100%" /></div>
 
 </td>
-</tr>
+</tr>-->
 
 </table>  
 
