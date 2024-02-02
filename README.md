@@ -60,7 +60,7 @@ I am eager to learn and grow, and I am confident that I can make a significant c
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://giphy.com/gifs/coding-goddev-code-awesome-shit-fg9WTiKqZ0ZM6o244o" align="center" style="width: 100%" />
+<img src="https://giphy.com/embed/fg9WTiKqZ0ZM6o244o" align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
