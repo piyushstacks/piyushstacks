@@ -60,7 +60,7 @@ I am eager to learn and grow, and I am confident that I can make a significant c
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://giphy.com/embed/fg9WTiKqZ0ZM6o244o" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemd4cXYxeGZyNG1ya2p6dTF1eDdlczZwNzVha3RldjY4MmRjOGdwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fg9WTiKqZ0ZM6o244o/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 </td></tr></table>  
