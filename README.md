@@ -1,5 +1,3 @@
-![Header Tweet](./header_twt.png)
-
 ## Hi there👋!  
 
 I'm [**Piyush**](https://piyushbhagchandani.me/), a software engineer from Ahmedabad, India.
